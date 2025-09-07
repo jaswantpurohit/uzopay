@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.434fbe80.css",
+    "main.js": "/static/js/main.01840886.js",
+    "static/media/exception-support-bg.png": "/static/media/exception-support-bg.1b5f43595418047cb662.png",
+    "static/media/trusted-business-bg.png": "/static/media/trusted-business-bg.524091ca173bfeb5fda9.png",
+    "static/media/streamline-bg-blur.png": "/static/media/streamline-bg-blur.420f97908ac7c7e6c0a8.png",
+    "static/media/simple-payment-process-bg.png": "/static/media/simple-payment-process-bg.ab9c63d844ce16acea0a.png",
+    "static/media/payment-card-bg.png": "/static/media/payment-card-bg.49570550a8ce99c61901.png",
+    "index.html": "/index.html",
+    "main.434fbe80.css.map": "/static/css/main.434fbe80.css.map",
+    "main.01840886.js.map": "/static/js/main.01840886.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434fbe80.css",
+    "static/js/main.01840886.js"
+  ]
+}
